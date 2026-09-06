@@ -1,0 +1,14 @@
+# Node
+node_modules/
+build/
+
+# Python
+__pycache__/
+*.pyc
+db.sqlite3
+
+# Environment
+.env
+
+# Mac
+.DS_Store
